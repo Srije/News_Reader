@@ -1,16 +1,18 @@
-# acm1
+# News_Reader
 
 ACM Induction Task
+Unipage mode is to open the categories (national sports etc) in the same homepage for better experience.
+Default is multipage mode where it opens each category in new page.
+Info shows the total number of the articles read and total number of times articles have been bookmarked.
+App side drawer has 
+- Dark mode
+- Bookmarks
+- Unipage/Multipage mode
+- Info
 
-## Getting Started
+Font size is changed for the content of the news.
+Bookmark option is given on the appbar of the news content screen and can be accessed or removed from the app side drawer.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Made by
+  Srijen Raja
